@@ -16,3 +16,7 @@ This first module of C++ is designed to help you understand the specificities of
 Time to dive into Object-Oriented Programming!
 ### 💙 [CPP Module 01](https://github.com/CottonKiwii/cpp01) 💙
 This module is designed to help you understand memory allocation, references, pointers to members, and the usage of the switch statement in C++.
+### 💜 [CPP Module 02](https://github.com/CottonKiwii/cpp02) 💜
+This module is designed to help you understand ad-hoc polymorphism, function overloading, and orthodox canonical classes in C++.
+### 🩷 [CPP Module 03](https://github.com/CottonKiwii/cpp03) 🩷
+This module is designed to help you understand inheritance in C++.
