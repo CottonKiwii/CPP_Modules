@@ -20,4 +20,7 @@ This module is designed to help you understand memory allocation, references, po
 This module is designed to help you understand ad-hoc polymorphism, function overloading, and orthodox canonical classes in C++.
 ### ❤️ [CPP Module 03](https://github.com/CottonKiwii/cpp03) ❤️
 This module is designed to help you understand inheritance in C++.
-
+### 🧡 [CPP Module 04](https://github.com/CottonKiwii/cpp04) 🧡
+This module is designed to help you understand subtype polymorphism, abstract classes, and interfaces in C++.
+### 💛 [CPP Module 05](https://github.com/CottonKiwii/cpp05) 💛
+This module is designed to help you understand try/catch and exceptions in C++.
