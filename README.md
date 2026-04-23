@@ -24,3 +24,5 @@ This module is designed to help you understand inheritance in C++.
 This module is designed to help you understand subtype polymorphism, abstract classes, and interfaces in C++.
 ### 💛 [CPP Module 05](https://github.com/CottonKiwii/cpp05) 💛
 This module is designed to help you understand try/catch and exceptions in C++.
+### 💚 [CPP Module 06](https://github.com/CottonKiwii/cpp06) 💚
+### 💙 [CPP Module 07](https://github.com/CottonKiwii/cpp07) 💙
