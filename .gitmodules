@@ -16,3 +16,9 @@
 [submodule "cpp05"]
 	path = cpp05
 	url = git@github.com:CottonKiwii/cpp05.git
+[submodule "cpp06"]
+	path = cpp06
+	url = git@github.com:CottonKiwii/cpp06.git
+[submodule "cpp07"]
+	path = cpp07
+	url = git@github.com:CottonKiwii/cpp07.git
