@@ -25,4 +25,6 @@ This module is designed to help you understand subtype polymorphism, abstract cl
 ### 💛 [CPP Module 05](https://github.com/CottonKiwii/cpp05) 💛
 This module is designed to help you understand try/catch and exceptions in C++.
 ### 💚 [CPP Module 06](https://github.com/CottonKiwii/cpp06) 💚
+This module is designed to help you understand the different types of casting in C++.
 ### 💙 [CPP Module 07](https://github.com/CottonKiwii/cpp07) 💙
+This module is designed to help you understand templates in C++.
